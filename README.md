@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://miuc.org/wp-content/uploads/2020/08/6-Reasons-why-you-should-learn-Programming-737x366.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm David</h1>
-<h3 align="center">My name is David Barrientos and I am a software engineer  student from  UNA Costa Rica :octocat:.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm David Barrientos </h1>
+<h3 align="center">I am a software engineer  student from  UNA Costa Rica :octocat:.</h3>
 
 
 ## 🙋‍♂️ About Me
