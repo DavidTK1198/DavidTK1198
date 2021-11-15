@@ -55,6 +55,6 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/david-barrientos-araya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/barrientos98/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/davidtk1198/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
