@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently studying **Data Structures and Algorithms.**
 
-- 👯 I’m working on **Gestión De Activiades Y Proyectos** from MOPT
+- 👯 I'm currently working on QA Automation using Cypress as main framework with Jenkins integration
 
 - 📫 How to reach me **daniel.barrientos.araya@est.una.ac.cr**
 
