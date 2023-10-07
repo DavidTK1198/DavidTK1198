@@ -12,7 +12,7 @@
 
 - 👯 I'm currently working on QA Automation using Cypress as main framework with Jenkins integration
 
-- 📫 How to reach me **daniel.barrientos.araya@est.una.ac.cr**
+- 📫 How to reach me **ddavidb09@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
