@@ -1,18 +1,18 @@
-<a href="#"><img width="100%" height="auto" src="https://miuc.org/wp-content/uploads/2020/08/6-Reasons-why-you-should-learn-Programming-737x366.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/v2/resize:fit:737/1*GryuagT82LBJjOQw078xiQ.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm David Barrientos </h1>
-<h3 align="center">I am a software engineer  student from  UNA Costa Rica :octocat:.</h3>
+<h3 align="center">I am a software engineer from Costa Rica :octocat:.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning **Kotlin**
+- 🔭 I’m currently learning **Webdriverio**
 
-- 🌱 I’m currently studying **Data Structures and Algorithms.**
+- 🌱 I’m currently studying about **AWS.**
 
-- 👯 I'm currently working on QA Automation using Cypress as main framework with Jenkins integration
+- 👯 I'm currently working as a QA Automation using Cypress with Jenkins integration.
 
-- 📫 How to reach me **ddavidb09@gmail.com**
+- 📫 How to reach me **ddavidb09@gmail.com.**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
